@@ -9,7 +9,7 @@ def set_inicio():
 	st.title('ALGORITHMIA')
 	st.write("El siguiente video te mostrará el funcionamiento del entorno")
 	#video1 = open("/Users/fatalista/Downloads/mid.mp4", "rb")
-	st.video("https://www.youtube.com/watch?v=iQdRPjny14w")
+	st.video("https://youtu.be/YootvTxCOMQ")
 
 	st.title('¿Qué es ALGORITHMIA?')
 	st.write(info_algorithmia)
